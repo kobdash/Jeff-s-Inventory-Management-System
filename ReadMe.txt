@@ -1,6 +1,6 @@
-Project Title
+JIMS
 
-Briefly describe your project here.
+An inventory management system.
 
 ============================
 Getting Started
